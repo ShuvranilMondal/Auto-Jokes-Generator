@@ -5,5 +5,5 @@
 
 [[redirects]]
     from = "/*"
-    to = "/file.html"
+    to = "/main-file.html"
     status = 200
