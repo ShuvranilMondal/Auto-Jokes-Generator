@@ -38,7 +38,7 @@ let newjokes =()=>{
 
 
 play.addEventListener('click',function(){
-    result.innerHTML = 'Loading your joke...'
+    result.innerHTML = 'Loading your joke....'
     setTimeout(() => {
         newjokes()
     }, 1000);
